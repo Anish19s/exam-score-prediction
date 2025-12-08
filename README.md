@@ -1,11 +1,9 @@
 Exam Score Prediction (Linear Regression)
 
-This is my first machine learning project.
-I predicted a student’s final exam score using two approaches:
+This is my first machine learning project.I predicted a student’s final exam score using two approaches:
 
-Manual Linear Regression – implemented gradient descent from scratch
-
-Scikit-Learn Linear Regression – used the library for comparison
+1)Manual Linear Regression – implemented gradient descent from scratch
+2)Scikit-Learn Linear Regression – used the library for comparison
 
 The prediction is based on the following features:
 
